@@ -1,0 +1,3 @@
+JavaScript
+1. Fundamental
+2. Struktur Data
