@@ -1,3 +1,5 @@
 JavaScript
 1. Fundamental
 2. Struktur Data
+3. Pengulangan
+4. Function
